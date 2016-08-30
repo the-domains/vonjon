@@ -1,0 +1,14 @@
+layout_spectrum: 0.6623855791985989
+typography_spectrum: 0.91548368986696
+color:
+  brandStrength: 0.3148866663686931
+  lightness: 0.5449565583840013
+  saturation: 0.5782645996659994
+  rhythmicContrast: 0.21971555170603096
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: vonjon
